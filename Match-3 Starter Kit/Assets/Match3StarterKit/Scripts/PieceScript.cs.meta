@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 37a847784f0ea8b4cb3d4fcd841eb9b0
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - moveSound: {fileID: 8300000, guid: cd31000a5baac59428bfe2634fcb2c53, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: cc2a0abf75ff14043b449da2ab3d4d36
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - timeBarMesh: {instanceID: 0}
+  - leftMark: {instanceID: 0}
+  - rightMark: {instanceID: 0}
+  - tile: {instanceID: 0}
+  - tileTodoNormalMaterial: {instanceID: 0}
+  - tileDoneMaterial: {instanceID: 0}
+  - activeEffect: {instanceID: 0}
+  - pieceDestroyedEffect: {instanceID: 0}
+  - newPiece: {fileID: 8300000, guid: 2578675aedddfe74a9b174bcf5f58c50, type: 3}
+  - destroyPiece: {instanceID: 0}
+  - SlidePiece: {fileID: 8300000, guid: a40cf638bd714a44db311e3443ebca84, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

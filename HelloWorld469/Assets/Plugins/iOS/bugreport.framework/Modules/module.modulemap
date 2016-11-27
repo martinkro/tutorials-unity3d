@@ -1,0 +1,6 @@
+framework module bugreport {
+  umbrella header "bugreport.h"
+
+  export *
+  module * { export * }
+}
